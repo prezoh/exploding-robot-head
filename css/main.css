@@ -15,6 +15,7 @@ body {
 
 .banner {
   background-color: #2b3851;
+
   position: relative;
   overflow: hidden;
   padding: 1.5rem;
@@ -31,13 +32,14 @@ body {
 .robot-body {
   width: 320px;
   top: 3rem;
+
 }
 
 .robot-brain {
+  width: 46px;
   position: absolute;
   top: 0;
   left: 8.5rem;
-  width: 46px;
 }
 
 .robot-head-right,
